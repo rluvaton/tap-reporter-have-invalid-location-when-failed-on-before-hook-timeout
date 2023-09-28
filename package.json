@@ -1,0 +1,12 @@
+{
+  "name": "tap-reporter-have-invalid-location-when-failed-on-before-hook-timeout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node run-tests.js"
+  },
+  "keywords": [],
+  "author": "Raz Luvaton",
+  "license": "ISC"
+}
